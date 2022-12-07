@@ -14,3 +14,9 @@ QA (apr 2021 - up to now)
 * HTML
 * CSS
 * Git
+
+## Languages:
+####
+* Russian (native)
+* English (B1)
+* Polish (A1)
